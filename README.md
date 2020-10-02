@@ -1,2 +1,2 @@
 # gittesting
-A repo to practice git
+A repo to practice git for hacktoberfest.
